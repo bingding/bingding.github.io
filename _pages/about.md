@@ -14,9 +14,7 @@ This is the front page of a website of Medical AI at Shenzhen Technology Univers
 Research Interests
 ======
 
-
-Getting started
-======
+人工智能、深度学习、医疗影像学、大数据技术与应用、生物信息学、精准医学、手术机器人、AI制药等
 
 
 
@@ -28,6 +26,7 @@ Getting started
 
 
 
-For more info
+
+Note
 ------
-This Academic Pages templates can be found in [the guide](https://academicpages.github.io/). 
+This website is adapted from [the academic pages](https://academicpages.github.io/). 
