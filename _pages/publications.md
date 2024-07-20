@@ -8,10 +8,12 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
+<br>
 {% include base_path %}
 
+
 # 2024
+
 <ol>
 <li> Jiyuan Zhou, Yuanke Pan, Shubing Wang, Guoqiang Wang, Chengxin Gu, Jinxin Zhu, Zhenlin Tan, Qixian Wu, Weihuang He, Xiaohui Lin, Shu Xu, Kehua Yuan, Ziwen Zheng, Xiaoqing Gong, Chenhao JiangHe, Zhoujian Han, Bingding Huang, Ruyun Ruan, Mingji Feng, Pin Cui, Hui Yang. Early detection and stratification of colorectal cancer using plasma cell-free DNA fragmentomic profiling. Genomics, 2024,16(4):110876. DOI:10.1016/j.ygeno.2024.110876
 <li> Rashid Khan, Liyilei Su, Asim Zaman, Haseeb Hassan, Yan Kang, Bingding Huang*. Customized m-RCNN and hybrid deep classifier for liver cancer segmentation and classification. Heliyon. 2024, 10(10):E30528. DOI:10.1016/j.heliyon.2024.e30528
@@ -24,9 +26,25 @@ author_profile: true
 <li> Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2024,1-15,  DOI: 10.1007/s10796-024-10485-y. 
 <li> Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3.
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
-</ol>
-2023
+
+# 2023
 ====
 
-2022
+
+
+<li> Jing Li, Liyilei Su, Jun Liu, Qian Peng, Rongde Xu, Wei Cui,Yi Deng, Weiguo Xie, Bingding Huang*, Jingjing Chen*, Optical Navigation Robot-assisted Puncture System for Accurate Lung Nodule Biopsy: An Animal Study,  Quantitative Imaging in Medicine and Surgery, 2023.13(12):7789-7801. DOI: 10.21037/qims-23-576
+<li> Jiapeng Dai, Xiaoxing Yang*, Bingding Huang*, Xiaofen Lu, A Framework based on Deep Neural Network for Ranking-oriented Software Defect Prediction. The 23rd IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023).  Chiang Mai, Thailand. October 22-26, 2023.
+<li>  Yan Yan, Liyilei Su, Chengmin Zhou, Yongzhi Huang, Jing Li, Rui Li, Haseeb Hassan*, Bingding Huang*, ITR-Net: A Hybrid Deep Learning Architecture for Precise and Efficient Medical Image Registration, IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC 2023), Chongqing China, December 8-10, 2023. 
+<li>  Yuanke Pan, Chengmin Zhou, Liyilei Su, Haseeb Hassan, Bingding Huang*, Bridging the Gap: A Fusion of CNN and Transformer Models for Real-Time Object Detection. IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC 2023), Chongqing China, December 8-10, 2023. 
+<li>  Ruyun Ruan, Shoujin Huang, Liyilei Su, Rashid Khan, Bingding Huang*. A Self-supervised Learning Method for Predicting Microsatellite Instability Based on Pathological Images. 2023 International Conference on Advances in Artificial Intelligence and Applications (AAIA 2023), Wuhan China, November 18 - 20, 2023.
+<li> Rashid Khan*, Bingding Huang*, Haseeb Hassan, Asim Zaman,  Zhongfu Ye, A Comparative Study of Pre-trained CNNs and GRU-Based Attention for Image Caption Generation,  The 5th International Conference on Robotics and Computer Vision, 2023 (ICRCV 2023), Nanjing, China, September 15-17, 2023. 
+<li> Rabbia Mahum, Mohamed Sharaf, Haseeb Hassan, Lixin Liang, Bingding Huang*, A Robust Brain Tumor Detector Using BiLSTM and Mayfly Optimization and Multi-Level Thresholding, Biomedicines, 2023, 11(6):1715.
+<li> Shibo Liang, Ziquan Liang, Zecheng Wu, Feijuan Huang, Xu Wang, Yuanzhe Cai, Bingding Huang*, Xin Wang*, A benchmark study of protein folding algorithms on nanobodies, 2023 International Conference on Communications, Computing and Artificial Intelligence (CCCAI 2023), 92-97.  Shanghai, China, June 23-25, 2023.
+<li> Chengmin Zhou, Bingding Huang*, Pasi Fränti*, Representation learning and reinforcement learning for dynamic complex motion planning system, IEEE Transactions on Neural Networks and Learning Systems, 2023.3. DOI: 10.1109/TNNLS.2023.3247160
+<li> Chengmin Zhou, Bingding Huang*, Haseeb Hassan, Pasi Fränti*, Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning, Journal of Intelligent Manufacturing. 2023, 34(1):151-180. DOI:10.1007/s10845-022-01988-z
+
+</ol>
+
+
+# 2022
 ====
