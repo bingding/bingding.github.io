@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Introduction
-======
-This is the front page of a website of Medical AI at Shenzhen Technology University.
+
+This is the website of Medical AI lab at Shenzhen Technology University.
 
 Research Interests
 ======
