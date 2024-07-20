@@ -28,7 +28,7 @@ author_profile: true
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
 
 # 2023
-====
+
 <li> Jing Li, Liyilei Su, Jun Liu, Qian Peng, Rongde Xu, Wei Cui,Yi Deng, Weiguo Xie, Bingding Huang*, Jingjing Chen*, Optical Navigation Robot-assisted Puncture System for Accurate Lung Nodule Biopsy: An Animal Study,  Quantitative Imaging in Medicine and Surgery, 2023.13(12):7789-7801. DOI: 10.21037/qims-23-576
 <li> Jiapeng Dai, Xiaoxing Yang*, Bingding Huang*, Xiaofen Lu, A Framework based on Deep Neural Network for Ranking-oriented Software Defect Prediction. The 23rd IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023).  Chiang Mai, Thailand. October 22-26, 2023.
 <li>  Yan Yan, Liyilei Su, Chengmin Zhou, Yongzhi Huang, Jing Li, Rui Li, Haseeb Hassan*, Bingding Huang*, ITR-Net: A Hybrid Deep Learning Architecture for Precise and Efficient Medical Image Registration, IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC 2023), Chongqing China, December 8-10, 2023. 
