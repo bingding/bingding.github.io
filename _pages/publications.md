@@ -43,8 +43,49 @@ author_profile: true
 <li> Chengmin Zhou, Bingding Huang*, Pasi Fränti*, Representation learning and reinforcement learning for dynamic complex motion planning system, IEEE Transactions on Neural Networks and Learning Systems, 2023.3. DOI: 10.1109/TNNLS.2023.3247160
 <li> Chengmin Zhou, Bingding Huang*, Haseeb Hassan, Pasi Fränti*, Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning, Journal of Intelligent Manufacturing. 2023, 34(1):151-180. DOI:10.1007/s10845-022-01988-z
 
-</ol>
+
 
 
 # 2022
-====
+
+<li> YuanKe Pan, Jinxin Zhu, Bingding Huang*,Unlabeled Abdominal Multi-organ Image Segmentation Based on Semi-supervised Adversarial Training Strategy, MICCAI 2022 Challenge, FLARE 2022,Lecture Notes in Computer Sciences, 2022,13816:11-22. DOI: 10.1007/978-3-031-23911-3_2
+<li> Xinfeng Sun, Wenxing Feng, Pin Cui, Ruyun Ruan, Wenfeng Ma, Zhiyi Han, Jialing Sun, Yuanke Pan, Jinxin Zhu, Xin Zhong, Jing Li, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Xintao Zhuang, Bingding Huang*, Xiaozhou Zhou*, Detection and monitoring of HBV-related hepatocellular carcinoma from plasma cfDNA fragmentation profiles, Genomics, 2022, 114(6):110502. DOI:10.1016/j.ygeno.2022.110502
+<li> Dan Li, Chuda Xiao, Yang Liu, Zhuo Chen, Haseeb Hassan,  Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Deep Segmentation Networks for Segmenting Kidneys and Detecting Kidney Stones in Unenhanced Abdominal CT Images，Diagnostics, 2022, 12(8):1788.
+<li> Huajie Wen, Jian Zhao, Shaohua Xiang, Lin Lin, Chengjian Liu, Tao Wang, Lin An, Lixin Liang*, and Bingding Huang*, Towards More Efficient Ophthalmic Disease Classification and Lesion Location via Convolution Transformer, Computer Methods and Programs in Biomedicine, 2022, 220:106832.
+<li> Haseeb Hassan, Chengmin Zhou, Muazzam A. Khan, Yi Pan, Jian Zhao, Bingding Huang*, Supervised and Weakly Supervised Deep Learning Models for COVID-19 CT Diagnosis: A Systematic Review, Computer Methods and Programs in Biomedicine, 2022, 218:106731.
+<li> Dan Li, Zhuo Chen, Haseeb Hassan, Weiguo Xie, Bingding Huang*, A Cascaded 3D Segmentation Model for Renal Enhanced CT Images. KiTS 2021. Lecture Notes in Computer Science, 2022,13168:123-168.
+<li> Chuda Xiao, Haseeb Hassan, Bingding Huang*, Contrast-Enhanced CT Renal Tumor Segmentation, Book title: Kidney and Kidney Tumor Segmentation,  KiTS 2021. Lecture Notes in Computer Science, 2022,13168:116-122.
+<li> Haseeb Hassan, Pranshu Mishra, Muhammad Ahmad, Ali Kashif Bashir, Bingding Huang*, Bin Luo*. Effects of Haze and Dehazing on Deep Learning-based Vision Models, Applied Intelligence,2022,52:16334–16352.
+<li> Zilun Li, Meixiu Peng, Pin Chen, Chenshu Liu, Jiangyun Peng, Jiang Liu, Yihui Li, Wenxue Li, Wei Zhu, Dongxian Guan, Yang Zhang, Hongyin Chen, Jiuzhou Li, Dongxiao Fan, Kan Huang, Fen Lin, Zefeng Zhang, Zeling Guo, Hengli Luo, Bingding Huang, Weikang Cai, Lei Gu, Yutong Lu, Li Yan*, Sifan Chen*, Imatinib and methazolamide ameliorate COVID-19-induced metabolic complications via elevating ACE2 enzymatic activity and inhibiting viral entry. Cell Metabolism, 2022, 34:1-17. DOI: 10.1016/j.cmet.2022.01.008
+<li> Ye Gu, Ruyun Ruan, Yan Yan, Jian Zhao, Lixin Liang, Bingding Huang*, Glomerulus semantic segmentation using ensemble of deep learning models, Arabian Journal for Science and Engineering, 2022, 47(11):14013–14024. 
+<li> Rui Li, Chuda Xiao, Yongzhi Huang, Haseeb Hassan and Bingding Huang*, Deep Learning Applications in Computed Tomography Images for Pulmonary Nodules’ Detection and Diagnosis: A Review, Diagnostics, 2022, 12(2):198.
+<li> Haseeb Hassan, Zhaoyu Ren, Huishi Zhao, Shuojin Huang, Dan Li, Shaohua Xiang, Yan Kang, Sifan Chen, Bingding Huang*, Review and classification of AI-enabled COVID-19 CT imaging models based on computer vision tasks,Computers in Biology and Medicine, 2022, 14:105123.
+<li> Chengmin Zhou, Bingding Huang*, Pasi Fränti. A review of motion planning algorithms for intelligent robotics.  Journal of Intelligent Manufacturing, 2022, 33:387-424. DOI:10.1007/S10845-021-01867-Z
+
+# befor 2021
+
+
+<li> Xianglan Jin, Tiegong Wang, Luguang Chen, Pengyi Xing Xiaoyun Wu, Chengwei Shao, Bingding Huang*, Wangfu Zang*. Single-stage pulmonary resection via a combination of single hookwire localization and video-assisted thoracoscopic surgery for synchronous multiple pulmonary nodules, Technology in Cancer Research & Treatment. 2021, 20:1-9. 
+<li> Hübschmann, D., Kleinheinz, K., Wagener, R. et al. Mutational mechanisms shaping the coding and noncoding genome of germinal center derived B-cell lymphomas. Leukemia, 2021,35:2002-2016.(Co-author).
+<li> Xiangyong Li, Chi Zhou, Ke Chen, Bingding Huang, Qi Liu and Hao Ye.  Benchmarking HLA genotyping and clarifying HLA impact on survival in tumor immunotherapy, Molecular Oncology, 2021, 15(7):1764-1782. 
+<li> Dandan Wang, Kai Ma, Wei Deng, Jingyu Li, Shaohua Xiang, Yang Zhang, Ying Fu, Heng Dai and Bingding Huang*. Development and validation of a targeted next generation sequencing panel to detect actionable mutations for targeted therapy, OncoTargets and Therapy, 2021,4:2423-2431. 
+<li> Yongzhe Ren, Yang Zhang, Dan-dan Wang, FengYing Liu, Ying Fu, Junhui Chen, Heng Dai, Bingding Huang*. SinoDuplex: an improved duplex sequencing approach to detect low-frequency variants from plasma ctDNA samples, Genomics Proteomics and Bioinformatics, 2020,18(1):81-90.  
+<li> Liangliang Cai, Hua Bai, Zhijie Wang, Jianchun Duan, Shugeng Gao, Di Wang, Shuhang Wang, Jun Jiang, Jie-Fei Han, Yanhua Tian, Xue Zhang, Ran Jing, Hao Ye, Minghui Li, Bingding Huang, Jie He, and Jie wang. Epigenetic alterations are associated with tumor mutation burden in non-small cell lung cancer. Journal for ImmunoTherapy of Cancer, 2019, 7:198. 
+<li> Zhenwu Xu, Jiawei Dai, Dandan Wang,Hui Lu, Heng Dai, Hao Ye, Jianlei Gu, Shengjia Chen and Bingding Huang*. Assessment of tumor mutation burden calculation from gene panel sequencing data. OncoTargets and Therapy,2019, 12:3401-3409.
+<li> Linfang Jin Jinhuo Lai, Yang Zhang, Ying Fu, Shuhang Wang, Heng Dai, Bingding Huang*. BreakID: genomics breakpoints identification to detect gene fusion events using discordant pairs and split reads. Bioinformatics, 2019, 35(16):2859-2861. 
+<li> Bender et al, Recurrent MET fusion genes represent a drug target in pediatric glioblastoma, Nature Medicine.2016, 22:1314–1320. (Co-author) . 
+<li> Sifan, Chen, Felix Blank, Aishwarya Iyer, Bingding Huang, Lin Wang, Ingrid Grummt and Renate Voit , SIRT7-dependent deacetylation of the U3-55k protein controls pre-rRNA processing, Nature Communication. 2016,7:10734. 
+<li> Helene Kretzmer et al, DNA methylome analysis in Burkitt and follicular lymphomas identifies differentially methylated regions linked to somatic mutation and transcriptional control, Nature Genetics.  2015, 47:1316-1325. (Co-author) .
+<li> Xinhua Chen, Zhijian Xu, Lingna Zhang, Hongchuan Liu, Xia Liu, Meng Lou, Lijun Zhu, Bingding Huang, Caiguang Yang, Weiliang Zhu and Jimin Shao. The conserved lys-95 charged residue cluster is critical for the homodimerization and enzyme activity of human ribonucleotide reductase small subunit m2. Journal of Biological Chemistry. 2014, 289(2):909-20. 
+<li> Xiaoyan Luo, Xu Han, Chengmeng Jin, Wei Tian, Wei Yu, Dong Ding, Lihua Cheng, Bingding Huang, Huawei Jiang, Biaoyang Lin,  SOX2 targets fibronectin 1 to promote cell migration and invasion in ovarian cancer: New Molecular Leads for Therapeutic Intervention. Omics: A journal of integrative biology. 2013,17(10):510-8. 
+<li> Lisa Li, Jie Liu, Wei Yu, Xiaoyan Lou, Bingding Huang, Biaoyang Lin, Deep transcriptome profiling of ovarian cancer cells using next-generation sequencing approach. Methods Molecular Biology. 2013,1049:139-69. 
+<li> Jiaofang Shao, Jing Zhang, Zengming Zhang, Huawei Jiang, Xiaoyan Lou, Bingding Huang, Gregory Foltz, Qing Lan, Qiang Huang, and Biaoyang Lin. , Alternative polyadenylation in glioblastoma multiforme and changes in predicted RNA binding protein profiles , Omics: A journal of integrative biology. 2013, 17(3): 136-149. 
+<li> Zengming Zhang, Yu Li, Biaoyang Lin, Michael Schroeder and Bingding Huang* , Identification of cavities on protein surface using multiple computational approaches for drug binding site prediction. Bioinformatics,, 2011, 27 (15): 2083-2088. 
+<li> JingNa Si, Zengming Zhang, Biaoyang Lin, Michael Schroeder and Bingding Huang* , MetaDBSite: a meta approach to improve protein DNA-binding site prediction, BMC Systems Biology,2011, 5:S7. 
+<li> Anne Tuukkanen, Bingding Huang, Andreas Henschel, Francis Stewert and Michael Schroeder, Structural Modeling of histone methyltransferase complex Set1C from Saccharomyces cerevisiae using constraint-based docking, Proteomics,2010, 10(23):4186-4195. 
+<li> Stefan Henrich, Outi Salo-Ahen, Bingding Huang, Friedrich Rippman, Gabriele Cruciani, Rebecca  Wade, Computational approaches to identifying protein ligand binding sites for drug design, Journal of Molecular Recognition,  2009, 23(2):209-219. 
+<li> Bingding Huang, metaPocket: a meta approach to improve protein ligand binding sites prediction, Omics,2009, 13(4):325-330.
+<li> Bingding Huang and Michael Schroeder, Using protein binding site prediction to improve protein docking, Gene, 2008,Epub 422(1-2): 14-21. 
+<li> Bingding Huang and Michael Schroeder, LIGSITEcsc: predicting protein binding sites using the Connolly surface and degree of conservation, BMC Structural Biology,2006, 6:19. 
+<li> Bingding Huang and Michael Schroeder , Using residue propensities and tightness of fit to improve rigid-body protein-protein docking, In Matthias Rarey, Andrew Torda, Stefan Kurtz, and Ute Willhoeft, editors, Proceedings of German Bioinformatics Conference.2005, Pages: 159-173, Springer. 
+</ol>
