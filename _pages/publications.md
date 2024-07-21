@@ -26,7 +26,7 @@ author_profile: true
 <li> Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2024,1-15,  DOI: 10.1007/s10796-024-10485-y. 
 <li> Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3.
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
-
+<br>
 <h1> 2023</h1>
 <br>
 <li> Jing Li, Liyilei Su, Jun Liu, Qian Peng, Rongde Xu, Wei Cui,Yi Deng, Weiguo Xie, Bingding Huang*, Jingjing Chen*, Optical Navigation Robot-assisted Puncture System for Accurate Lung Nodule Biopsy: An Animal Study,  Quantitative Imaging in Medicine and Surgery, 2023.13(12):7789-7801. DOI: 10.21037/qims-23-576
@@ -40,7 +40,7 @@ author_profile: true
 <li> Chengmin Zhou, Bingding Huang*, Pasi Fränti*, Representation learning and reinforcement learning for dynamic complex motion planning system, IEEE Transactions on Neural Networks and Learning Systems, 2023.3. DOI: 10.1109/TNNLS.2023.3247160
 <li> Chengmin Zhou, Bingding Huang*, Haseeb Hassan, Pasi Fränti*, Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning, Journal of Intelligent Manufacturing. 2023, 34(1):151-180. DOI:10.1007/s10845-022-01988-z
 
-
+<br>
 <h1> 2022</h1>
 <br>
 <li> YuanKe Pan, Jinxin Zhu, Bingding Huang*,Unlabeled Abdominal Multi-organ Image Segmentation Based on Semi-supervised Adversarial Training Strategy, MICCAI 2022 Challenge, FLARE 2022,Lecture Notes in Computer Sciences, 2022,13816:11-22. DOI: 10.1007/978-3-031-23911-3_2
@@ -56,7 +56,7 @@ author_profile: true
 <li> Rui Li, Chuda Xiao, Yongzhi Huang, Haseeb Hassan and Bingding Huang*, Deep Learning Applications in Computed Tomography Images for Pulmonary Nodules’ Detection and Diagnosis: A Review, Diagnostics, 2022, 12(2):198.
 <li> Haseeb Hassan, Zhaoyu Ren, Huishi Zhao, Shuojin Huang, Dan Li, Shaohua Xiang, Yan Kang, Sifan Chen, Bingding Huang*, Review and classification of AI-enabled COVID-19 CT imaging models based on computer vision tasks,Computers in Biology and Medicine, 2022, 14:105123.
 <li> Chengmin Zhou, Bingding Huang*, Pasi Fränti. A review of motion planning algorithms for intelligent robotics.  Journal of Intelligent Manufacturing, 2022, 33:387-424. DOI:10.1007/S10845-021-01867-Z
-
+<br>
 <h1> Befor 2021</h1>
 <br>
 
