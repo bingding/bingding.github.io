@@ -27,8 +27,8 @@ author_profile: true
 <li> Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3.
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
 
-# 2023
-
+<h1> 2023<h1>
+<br>
 <li> Jing Li, Liyilei Su, Jun Liu, Qian Peng, Rongde Xu, Wei Cui,Yi Deng, Weiguo Xie, Bingding Huang*, Jingjing Chen*, Optical Navigation Robot-assisted Puncture System for Accurate Lung Nodule Biopsy: An Animal Study,  Quantitative Imaging in Medicine and Surgery, 2023.13(12):7789-7801. DOI: 10.21037/qims-23-576
 <li> Jiapeng Dai, Xiaoxing Yang*, Bingding Huang*, Xiaofen Lu, A Framework based on Deep Neural Network for Ranking-oriented Software Defect Prediction. The 23rd IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023).  Chiang Mai, Thailand. October 22-26, 2023.
 <li>  Yan Yan, Liyilei Su, Chengmin Zhou, Yongzhi Huang, Jing Li, Rui Li, Haseeb Hassan*, Bingding Huang*, ITR-Net: A Hybrid Deep Learning Architecture for Precise and Efficient Medical Image Registration, IEEE 11th Joint International Information Technology and Artificial Intelligence Conference (ITAIC 2023), Chongqing China, December 8-10, 2023. 
@@ -41,8 +41,8 @@ author_profile: true
 <li> Chengmin Zhou, Bingding Huang*, Haseeb Hassan, Pasi Fränti*, Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning, Journal of Intelligent Manufacturing. 2023, 34(1):151-180. DOI:10.1007/s10845-022-01988-z
 
 
-# 2022
-
+<h1> 2022<h1>
+<br>
 <li> YuanKe Pan, Jinxin Zhu, Bingding Huang*,Unlabeled Abdominal Multi-organ Image Segmentation Based on Semi-supervised Adversarial Training Strategy, MICCAI 2022 Challenge, FLARE 2022,Lecture Notes in Computer Sciences, 2022,13816:11-22. DOI: 10.1007/978-3-031-23911-3_2
 <li> Xinfeng Sun, Wenxing Feng, Pin Cui, Ruyun Ruan, Wenfeng Ma, Zhiyi Han, Jialing Sun, Yuanke Pan, Jinxin Zhu, Xin Zhong, Jing Li, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Xintao Zhuang, Bingding Huang*, Xiaozhou Zhou*, Detection and monitoring of HBV-related hepatocellular carcinoma from plasma cfDNA fragmentation profiles, Genomics, 2022, 114(6):110502. DOI:10.1016/j.ygeno.2022.110502
 <li> Dan Li, Chuda Xiao, Yang Liu, Zhuo Chen, Haseeb Hassan,  Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Deep Segmentation Networks for Segmenting Kidneys and Detecting Kidney Stones in Unenhanced Abdominal CT Images，Diagnostics, 2022, 12(8):1788.
@@ -57,7 +57,8 @@ author_profile: true
 <li> Haseeb Hassan, Zhaoyu Ren, Huishi Zhao, Shuojin Huang, Dan Li, Shaohua Xiang, Yan Kang, Sifan Chen, Bingding Huang*, Review and classification of AI-enabled COVID-19 CT imaging models based on computer vision tasks,Computers in Biology and Medicine, 2022, 14:105123.
 <li> Chengmin Zhou, Bingding Huang*, Pasi Fränti. A review of motion planning algorithms for intelligent robotics.  Journal of Intelligent Manufacturing, 2022, 33:387-424. DOI:10.1007/S10845-021-01867-Z
 
-# Befor 2021
+<h1> Befor 2021<h1>
+<br>
 
 <li> Xianglan Jin, Tiegong Wang, Luguang Chen, Pengyi Xing Xiaoyun Wu, Chengwei Shao, Bingding Huang*, Wangfu Zang*. Single-stage pulmonary resection via a combination of single hookwire localization and video-assisted thoracoscopic surgery for synchronous multiple pulmonary nodules, Technology in Cancer Research & Treatment. 2021, 20:1-9. 
 <li> Hübschmann, D., Kleinheinz, K., Wagener, R. et al. Mutational mechanisms shaping the coding and noncoding genome of germinal center derived B-cell lymphomas. Leukemia, 2021,35:2002-2016.(Co-author).
