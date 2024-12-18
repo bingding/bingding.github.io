@@ -22,6 +22,9 @@ Rashid Khan, Asim Zaman, Chao Chen, Chuda Xiao, Wen Zhong, Yang Liu, Haseeb Hass
 
 <li> Jiyuan Zhou, Yuanke Pan, Shubing Wang, Guoqiang Wang, Chengxin Gu, Jinxin Zhu, Zhenlin Tan, Qixian Wu, Weihuang He, Xiaohui Lin, Shu Xu, Kehua Yuan, Ziwen Zheng, Xiaoqing Gong, Chenhao JiangHe, Zhoujian Han, Bingding Huang, Ruyun Ruan, Mingji Feng, Pin Cui, Hui Yang. Early detection and stratification of colorectal cancer using plasma cell-free DNA fragmentomic profiling. Genomics, 2024,16(4):110876. DOI:10.1016/j.ygeno.2024.110876
 <li> Rashid Khan, Liyilei Su, Asim Zaman, Haseeb Hassan, Yan Kang, Bingding Huang*. Customized m-RCNN and hybrid deep classifier for liver cancer segmentation and classification. Heliyon. 2024, 10(10):E30528. DOI:10.1016/j.heliyon.2024.e30528
+<li>
+Rashid Khan, Bingding Huang*, Visual Insight: Deep Multilayer Fusion with Inception-based LSTM for Descriptive Image Captioning. 2024 4th International Conference on Computer Communication and Artificial Intelligence (CCAI). 24-26 May 2024,Xi'an, China. 
+
 <li> Chengmin Zhou, Liyilei Su, Tiegong Wang, Jinxing Gao, Jing Li, Jun Liu, Zongzhou Ye, Xiaoming Zhai, Weiguo Xie, Chengwei Shao*, Bingding Huang*, Deep learning to predict respiratory lung-tissue displacement from multi-phase pulmonary computed tomography images, Biomedical Signal Processing and Control, 2024, 87: 105505. DOI:10.1016/j.bspc.2023.105505
 <li> Wenyuan Shang, Xiujun Hu, Xiaoman Lin, Shangru Li, Shuchang Xiong, Bingding Huang*, Xin Wang*. Iterative In Silico Screening for Optimizing Stable Conformation of Anti-SARS-CoV-2 Nanobodies, Pharmaceuticals 2024. 17(4):424. 
 <li> Shuchang Xiong, Zhengwen Liu, Xin Yi, Kai Liu, Bingding Huang*, Xin Wang*. NanoLAS: a comprehensive nanobody database with data integration, consolidation and application. Database, 2024
@@ -31,6 +34,7 @@ Rashid Khan, Asim Zaman, Chao Chen, Chuda Xiao, Wen Zhong, Yang Liu, Haseeb Hass
 <li> Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2024,1-15,  DOI: 10.1007/s10796-024-10485-y. 
 <li> Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3.
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
+<br>
 <br>
 <h1> 2023</h1>
 <br>
