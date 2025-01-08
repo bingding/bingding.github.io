@@ -16,6 +16,11 @@ author_profile: true
 
 <ol>
 <li>
+
+Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex Intellegent System. 2025, 11, 131.
+<li>
+Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao & <b>Bingding Huang</b>. A systematic review for transformer-based long-term series forecasting. Artificial Intellegence Review. 2025, 58, 80.
+<li>
 Jun Ma, Yao Zhang, Song Gu, Cheng Ge, Shihao Mae, Adamo Young, Cheng Zhu, Xin Yang, Kangkang Meng, Ziyan Huang, Fan Zhang, Yuanke Pan, Shoujin Huang, Jiacheng Wang, Mingze Sun, Rongguo Zhang, Dengqiang Jia, Jae Won Choi, Natália Alves, Bram de Wilde, Gregor Koehler, Haoran Lai, Ershuai Wang, Manuel Wiesenfarth, Qiongjie Zhu, Guoqiang Dong, Jian He, Junjun He, Hua Yang, <b>Bingding Huang</b>, Mengye Lyu, Yongkang Ma, Heng Guo, Weixin Xu, Klaus Maier-Hein, Yajun Wu, Bo Wang,Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ quantification: the FLARE22 challenge,The Lancet Digital Health, 2024, 6 (11), e815-e826
 <li>
 Rashid Khan, Asim Zaman, Chao Chen, Chuda Xiao, Wen Zhong, Yang Liu, Haseeb Hassan, Liyilei Su, Weiguo Xie, Yan Kang, Bingding Huang*. MLAU-Net: Deep supervised attention and hybrid loss strategies for enhanced segmentation of low-resolution kidney ultrasound. Digital Health 2024,10, 20552076241291306
