@@ -17,21 +17,23 @@ author_profile: true
 <ol>
 <li>
 
-Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex Intellegent System. 2025, 11, 131.
+Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang*</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex Intellegent System, 2025, 11(2):1-20.
 <li>
-Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao & <b>Bingding Huang</b>. A systematic review for transformer-based long-term series forecasting. Artificial Intellegence Review. 2025, 58, 80.
+Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41.
+<li>
+Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao* & <b>Bingding Huang*</b>. A systematic review for transformer-based long-term series forecasting, Artificial Intellegence Review. 2025, 58:80.
 <li>
 Jun Ma, Yao Zhang, Song Gu, Cheng Ge, Shihao Mae, Adamo Young, Cheng Zhu, Xin Yang, Kangkang Meng, Ziyan Huang, Fan Zhang, Yuanke Pan, Shoujin Huang, Jiacheng Wang, Mingze Sun, Rongguo Zhang, Dengqiang Jia, Jae Won Choi, Natália Alves, Bram de Wilde, Gregor Koehler, Haoran Lai, Ershuai Wang, Manuel Wiesenfarth, Qiongjie Zhu, Guoqiang Dong, Jian He, Junjun He, Hua Yang, <b>Bingding Huang</b>, Mengye Lyu, Yongkang Ma, Heng Guo, Weixin Xu, Klaus Maier-Hein, Yajun Wu, Bo Wang,Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ quantification: the FLARE22 challenge,The Lancet Digital Health, 2024, 6 (11), e815-e826
 <li>
-Rashid Khan, Asim Zaman, Chao Chen, Chuda Xiao, Wen Zhong, Yang Liu, Haseeb Hassan, Liyilei Su, Weiguo Xie, Yan Kang, Bingding Huang*. MLAU-Net: Deep supervised attention and hybrid loss strategies for enhanced segmentation of low-resolution kidney ultrasound. Digital Health 2024,10, 20552076241291306
+Rashid Khan, Asim Zaman, Chao Chen, Chuda Xiao, Wen Zhong, Yang Liu, Haseeb Hassan, Liyilei Su, Weiguo Xie, Yan Kang, <b>Bingding Huang*</b>. MLAU-Net: Deep supervised attention and hybrid loss strategies for enhanced segmentation of low-resolution kidney ultrasound. Digital Health 2024,10, 20552076241291306
 
 <li> Jiyuan Zhou, Yuanke Pan, Shubing Wang, Guoqiang Wang, Chengxin Gu, Jinxin Zhu, Zhenlin Tan, Qixian Wu, Weihuang He, Xiaohui Lin, Shu Xu, Kehua Yuan, Ziwen Zheng, Xiaoqing Gong, Chenhao JiangHe, Zhoujian Han, Bingding Huang, Ruyun Ruan, Mingji Feng, Pin Cui, Hui Yang. Early detection and stratification of colorectal cancer using plasma cell-free DNA fragmentomic profiling. Genomics, 2024,16(4):110876. DOI:10.1016/j.ygeno.2024.110876
 <li> Rashid Khan, Liyilei Su, Asim Zaman, Haseeb Hassan, Yan Kang, Bingding Huang*. Customized m-RCNN and hybrid deep classifier for liver cancer segmentation and classification. Heliyon. 2024, 10(10):E30528. DOI:10.1016/j.heliyon.2024.e30528
 <li>
-Rashid Khan, Bingding Huang*, Visual Insight: Deep Multilayer Fusion with Inception-based LSTM for Descriptive Image Captioning. 2024 4th International Conference on Computer Communication and Artificial Intelligence (CCAI). 24-26 May 2024,Xi'an, China. 
+Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with Inception-based LSTM for Descriptive Image Captioning. 2024 4th International Conference on Computer Communication and Artificial Intelligence (CCAI). 24-26 May 2024,Xi'an, China. 
 
-<li> Chengmin Zhou, Liyilei Su, Tiegong Wang, Jinxing Gao, Jing Li, Jun Liu, Zongzhou Ye, Xiaoming Zhai, Weiguo Xie, Chengwei Shao*, Bingding Huang*, Deep learning to predict respiratory lung-tissue displacement from multi-phase pulmonary computed tomography images, Biomedical Signal Processing and Control, 2024, 87: 105505. DOI:10.1016/j.bspc.2023.105505
-<li> Wenyuan Shang, Xiujun Hu, Xiaoman Lin, Shangru Li, Shuchang Xiong, Bingding Huang*, Xin Wang*. Iterative In Silico Screening for Optimizing Stable Conformation of Anti-SARS-CoV-2 Nanobodies, Pharmaceuticals 2024. 17(4):424. 
+<li> Chengmin Zhou, Liyilei Su, Tiegong Wang, Jinxing Gao, Jing Li, Jun Liu, Zongzhou Ye, Xiaoming Zhai, Weiguo Xie, Chengwei Shao*, <b>Bingding Huang*</b>, Deep learning to predict respiratory lung-tissue displacement from multi-phase pulmonary computed tomography images, Biomedical Signal Processing and Control, 2024, 87: 105505. DOI:10.1016/j.bspc.2023.105505
+<li> Wenyuan Shang, Xiujun Hu, Xiaoman Lin, Shangru Li, Shuchang Xiong, Bingding Huang*, Xin Wang*. Iterative In Silico Screening for Optimizing Stable Conformation of Anti-SARS-CoV-2 Nanobodies, Pharmaceuticals, 2024. 17(4):424. 
 <li> Shuchang Xiong, Zhengwen Liu, Xin Yi, Kai Liu, Bingding Huang*, Xin Wang*. NanoLAS: a comprehensive nanobody database with data integration, consolidation and application. Database, 2024
 <li> Shangru Li, Xiangpeng Meng, Rui Li, Bingding Huang*, Xin Wang*, NanoBERTa-ASP: predicting nanobody paratope based on a pretrained RoBERTa model. BMC bioinformatics, 2024, 25:122.
 <li> Asim Zaman, HASSAN HASEEB, Xueqiang Zeng, Jiaxi Lu, Huihui Yang, Xiaoqiang Miao, Yang Yingjian, Rashid Khan, Bingding Huang, Yingwei Guo, Adaptive Feature Medical Segmentation Network: an adaptable deep learning paradigm for high-performance 3D brain lesion segmentation in medical imaging, Frontiers in Neuroscience, 2024, 18:1363930. DOI:10.3389/fnins.2024.1363930
