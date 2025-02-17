@@ -22,7 +22,8 @@ Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang 
 Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41.
 <li>
 Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao* & <b>Bingding Huang*</b>. A systematic review for transformer-based long-term series forecasting, Artificial Intellegence Review. 2025, 58:80.
-<li>
+<br>
+<br>
 
 <h1>2024</h1>
 <li>
@@ -58,6 +59,7 @@ Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with
 <li> Shibo Liang, Ziquan Liang, Zecheng Wu, Feijuan Huang, Xu Wang, Yuanzhe Cai, Bingding Huang*, Xin Wang*, A benchmark study of protein folding algorithms on nanobodies, 2023 International Conference on Communications, Computing and Artificial Intelligence (CCCAI 2023), 92-97.  Shanghai, China, June 23-25, 2023.
 <li> Chengmin Zhou, Bingding Huang*, Pasi Fränti*, Representation learning and reinforcement learning for dynamic complex motion planning system, IEEE Transactions on Neural Networks and Learning Systems, 2023.3. DOI: 10.1109/TNNLS.2023.3247160
 <li> Chengmin Zhou, Bingding Huang*, Haseeb Hassan, Pasi Fränti*, Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning, Journal of Intelligent Manufacturing. 2023, 34(1):151-180. DOI:10.1007/s10845-022-01988-z
+<br>
 
 <br>
 <h1> 2022</h1>
@@ -75,6 +77,8 @@ Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with
 <li> Rui Li, Chuda Xiao, Yongzhi Huang, Haseeb Hassan and Bingding Huang*, Deep Learning Applications in Computed Tomography Images for Pulmonary Nodules’ Detection and Diagnosis: A Review, Diagnostics, 2022, 12(2):198.
 <li> Haseeb Hassan, Zhaoyu Ren, Huishi Zhao, Shuojin Huang, Dan Li, Shaohua Xiang, Yan Kang, Sifan Chen, Bingding Huang*, Review and classification of AI-enabled COVID-19 CT imaging models based on computer vision tasks,Computers in Biology and Medicine, 2022, 14:105123.
 <li> Chengmin Zhou, Bingding Huang*, Pasi Fränti. A review of motion planning algorithms for intelligent robotics.  Journal of Intelligent Manufacturing, 2022, 33:387-424. DOI:10.1007/S10845-021-01867-Z
+<br>
+
 <br>
 <h1> Befor 2021</h1>
 <br>
