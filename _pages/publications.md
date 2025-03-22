@@ -16,12 +16,15 @@ author_profile: true
 
 <ol>
 <li>
-
-Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang*</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex Intellegent System, 2025, 11(2):1-20.
+Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 
+<li>
+Xin Wang, Haotian Chen, Bo Chen, Lixin Liang, Fengcheng Mei, <b>Bingding Huang*</b>. NanoAbLLaMA: construction of nanobody libraries with protein large language models. Frontiers in Chemistry. 2025. 13:1545136. doi: 10.3389/fchem.2025.1545136.
+<li>
+Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang*</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex & Intelligent Systems, 2025, 11(2):1-20.
 <li>
 Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41.
 <li>
-Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao* & <b>Bingding Huang*</b>. A systematic review for transformer-based long-term series forecasting, Artificial Intellegence Review. 2025, 58:80.
+Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao* & <b>Bingding Huang*</b>. A systematic review for transformer-based long-term series forecasting, Artificial Intelligence Review. 2025, 58:80.
 <br>
 <br>
 
