@@ -16,7 +16,10 @@ author_profile: true
 
 <ol>
 <li>
-Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 
+Jialing Sun, Xinfeng Sun, Weihuang He, <b>Bingding Huang</b>, Wenxing Feng, Zhiyi Han, Ruyun Ruan, Yuanke Pan, Jinxin Zhu, Jing Li, Xin Zhong, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Jinyu Yi, Pin Cui, Xiaozhou Zhou. A liquid biopsy approach detects HCC and identifies GJA4 as a potential biomarker for HBV-HCC via plasma cfDNA methylome profiling. Clinical Epigenetics. 2025. 17:98. (并列第一作者)
+
+<li>
+Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 41(3). 
 <li>
 Xin Wang, Haotian Chen, Bo Chen, Lixin Liang, Fengcheng Mei, <b>Bingding Huang*</b>. NanoAbLLaMA: construction of nanobody libraries with protein large language models. Frontiers in Chemistry. 2025. 13:1545136. doi: 10.3389/fchem.2025.1545136.
 <li>
