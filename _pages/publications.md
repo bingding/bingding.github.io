@@ -17,6 +17,8 @@ author_profile: true
 <ol>
 <li>
 Jialing Sun, Xinfeng Sun, Weihuang He, <b>Bingding Huang</b>, Wenxing Feng, Zhiyi Han, Ruyun Ruan, Yuanke Pan, Jinxin Zhu, Jing Li, Xin Zhong, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Jinyu Yi, Pin Cui, Xiaozhou Zhou. A liquid biopsy approach detects HCC and identifies GJA4 as a potential biomarker for HBV-HCC via plasma cfDNA methylome profiling. Clinical Epigenetics. 2025. 17:98. (并列第一作者)
+<li>
+Wei Cui, Yi Deng, Jingjing Chen, Yanqing Le, Huaying Shi, Suyi Ye, Bingding Huang, Xiaoming Chen, Jing Li, Rongde Xu. CT-guided needle insertion with an optical navigation robot-assisted puncture system: ex vivo and in vivo experimental studies in the liver and kidneys. Quantitative Imaging in Medicine and Surgery. 2025. 15(6):5114.
 
 <li>
 Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 41(3). 
@@ -24,6 +26,7 @@ Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yux
 Xin Wang, Haotian Chen, Bo Chen, Lixin Liang, Fengcheng Mei, <b>Bingding Huang*</b>. NanoAbLLaMA: construction of nanobody libraries with protein large language models. Frontiers in Chemistry. 2025. 13:1545136. doi: 10.3389/fchem.2025.1545136.
 <li>
 Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang*</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex & Intelligent Systems, 2025, 11(2):1-20.
+<li> Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2025,27(1):97-111.
 <li>
 Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41.
 <li>
@@ -48,7 +51,7 @@ Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with
 <li> Shangru Li, Xiangpeng Meng, Rui Li, Bingding Huang*, Xin Wang*, NanoBERTa-ASP: predicting nanobody paratope based on a pretrained RoBERTa model. BMC bioinformatics, 2024, 25:122.
 <li> Asim Zaman, HASSAN HASEEB, Xueqiang Zeng, Jiaxi Lu, Huihui Yang, Xiaoqiang Miao, Yang Yingjian, Rashid Khan, Bingding Huang, Yingwei Guo, Adaptive Feature Medical Segmentation Network: an adaptable deep learning paradigm for high-performance 3D brain lesion segmentation in medical imaging, Frontiers in Neuroscience, 2024, 18:1363930. DOI:10.3389/fnins.2024.1363930
 <li> Kan Huang; Zilun Li; Xi He; Jun Dai; Bingding Huang; Yongxia Shi; Dongxiao Fan; Zefeng Zhang; Yunchong Liu; Na Li; Zhongyu Zhang; Jiangyun Peng; Chenshu Liu; Renli Zeng; Zhipeng Cen; Tengyao Wang; Wenchao Yang; Meifeng Cen; Jingyu Li; Shuai Yuan; Lu Zhang; Dandan Hu; Shuxiang Huang; Pin Chen; Peilong Lai; Kai Feng; Jian Wang; Baolin Liao; Weiping Cai; Xilong Deng; Yueping Li; Jianping Li; Zhongwei Hu; Li Yang; Jiaojiao Li; Youguang Zhuo; Fuchun Zhang; Wei Zhang; Qianlin Ni; Xiqiang Hong; Guangqi Chang; Yang Zhang; Dongxian Guan; Weikang Cai; Yutong Lu; Fang Li; Li Yan; Meng Ren; Linghua Li; Sifan Chen*, Gut microbial co-metabolite 2MBC exacerbates COVID-19 associated thrombosis via binding to and activating integrin α2β1, Cell metabolism, 2024, 36(3):598-616 (并列第一). DOI: 10.1016/j.cmet.2024.01.014
-<li> Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2024,1-15,  DOI: 10.1007/s10796-024-10485-y. 
+
 <li> Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3.
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
 <br>
