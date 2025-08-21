@@ -16,6 +16,13 @@ author_profile: true
 
 <ol>
 <li>
+Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025.
+<li>
+Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167.
+<li>
+Liuyi Yang, Shao-Chi Pao, Xiaoxing Yang, Rui Li, Lixin Liang, Bingding Huang*. 
+BiGAMR-Net: Bidirectional Gated Attention and Multi-scale Residual Network for Polyp Segmentation. International Conference on Intelligent Computing. 2025. pages:165-176. (CCF-C类会议)
+<li>
 Jialing Sun, Xinfeng Sun, Weihuang He, <b>Bingding Huang</b>, Wenxing Feng, Zhiyi Han, Ruyun Ruan, Yuanke Pan, Jinxin Zhu, Jing Li, Xin Zhong, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Jinyu Yi, Pin Cui, Xiaozhou Zhou. A liquid biopsy approach detects HCC and identifies GJA4 as a potential biomarker for HBV-HCC via plasma cfDNA methylome profiling. Clinical Epigenetics. 2025. 17:98. (并列第一作者)
 <li>
 Wei Cui, Yi Deng, Jingjing Chen, Yanqing Le, Huaying Shi, Suyi Ye, Bingding Huang, Xiaoming Chen, Jing Li, Rongde Xu. CT-guided needle insertion with an optical navigation robot-assisted puncture system: ex vivo and in vivo experimental studies in the liver and kidneys. Quantitative Imaging in Medicine and Surgery. 2025. 15(6):5114.
