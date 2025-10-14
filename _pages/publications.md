@@ -16,6 +16,8 @@ author_profile: true
 
 <ol>
 <li>
+Donglai Shen, Shoupeng Li, Hairui Chen, . Wei Wang, Haomin Liang, Chong Zhang, Weiguo Xie, Jisong Tian, Xu Zhang, Bingding Huang, Haixing Mai, Percutaneous Kidney Puncture Using a Novel Contrast-enhanced Ultrasound-guided Technique: First Swine Model In Vivo Experience. European Urology Open Science, 2025. 81:13-20
+<li>
 Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025.
 <li>
 Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167.
