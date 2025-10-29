@@ -18,7 +18,13 @@ author_profile: true
 <li>
 Donglai Shen, Shoupeng Li, Hairui Chen, . Wei Wang, Haomin Liang, Chong Zhang, Weiguo Xie, Jisong Tian, Xu Zhang, Bingding Huang, Haixing Mai, Percutaneous Kidney Puncture Using a Novel Contrast-enhanced Ultrasound-guided Technique: First Swine Model In Vivo Experience. European Urology Open Science, 2025. 81:13-20
 <li>
+Pengfei Li, Wenheng Zheng, Zheng Wang, Xueling Zhang, Zhuang Tong, Liang Zhang, Hehuan Yao, Chenlei Zhang, Gebang Wang, Yu Liu, Zheyu Liu, Yegang Ma, Weiguo Xie, Bingding Huang, Hongxu Liu. Preliminary clinical experience with a robot-assisted system in preoperative hookwire localization of pulmonary nodules: a prospective pilot study. Journal of Robotic Surgery. 2025, 19(1):690. 
+<li>
 Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025.
+<li>
+Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. 
+<li>
+Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议)
 <li>
 Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167.
 <li>
