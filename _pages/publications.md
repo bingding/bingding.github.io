@@ -16,9 +16,11 @@ author_profile: true
 
 <ol>
 <li>
-Donglai Shen, Shoupeng Li, Hairui Chen, . Wei Wang, Haomin Liang, Chong Zhang, Weiguo Xie, Jisong Tian, Xu Zhang, Bingding Huang, Haixing Mai, Percutaneous Kidney Puncture Using a Novel Contrast-enhanced Ultrasound-guided Technique: First Swine Model In Vivo Experience. European Urology Open Science, 2025. 81:13-20
+Chenfeng Wang, Haomin Liang, Hairui Chen, Rashid Khan, Donglai Shen, Haitao Liu, Dan Shen, Wei Wang, Jianwen Liu, Frédéric Panthier, Min Zhao*, Xu Zhang*, Bingding Huang*, Haixing Mai*. Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery. npj Digital Medicine. 2025. 8(1): 728. 
 <li>
-Pengfei Li, Wenheng Zheng, Zheng Wang, Xueling Zhang, Zhuang Tong, Liang Zhang, Hehuan Yao, Chenlei Zhang, Gebang Wang, Yu Liu, Zheyu Liu, Yegang Ma, Weiguo Xie, Bingding Huang, Hongxu Liu. Preliminary clinical experience with a robot-assisted system in preoperative hookwire localization of pulmonary nodules: a prospective pilot study. Journal of Robotic Surgery. 2025, 19(1):690. 
+Donglai Shen, Shoupeng Li, Hairui Chen, . Wei Wang, Haomin Liang, Chong Zhang, Weiguo Xie, Jisong Tian, Xu Zhang*, Bingding Huang*, Haixing Mai*, Percutaneous Kidney Puncture Using a Novel Contrast-enhanced Ultrasound-guided Technique: First Swine Model In Vivo Experience. European Urology Open Science, 2025. 81:13-20
+<li>
+Pengfei Li, Wenheng Zheng, Zheng Wang, Xueling Zhang, Zhuang Tong, Liang Zhang, Hehuan Yao, Chenlei Zhang, Gebang Wang, Yu Liu, Zheyu Liu, Yegang Ma, Weiguo Xie, Bingding Huang*, Hongxu Liu*. Preliminary clinical experience with a robot-assisted system in preoperative hookwire localization of pulmonary nodules: a prospective pilot study. Journal of Robotic Surgery. 2025, 19(1):690. 
 <li>
 Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025.
 <li>
