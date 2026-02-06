@@ -22,13 +22,16 @@ Donglai Shen, Shoupeng Li, Hairui Chen, . Wei Wang, Haomin Liang, Chong Zhang, W
 <li>
 Pengfei Li, Wenheng Zheng, Zheng Wang, Xueling Zhang, Zhuang Tong, Liang Zhang, Hehuan Yao, Chenlei Zhang, Gebang Wang, Yu Liu, Zheyu Liu, Yegang Ma, Weiguo Xie, Bingding Huang*, Hongxu Liu*. Preliminary clinical experience with a robot-assisted system in preoperative hookwire localization of pulmonary nodules: a prospective pilot study. Journal of Robotic Surgery. 2025, 19(1):690. 
 <li>
+Yufan Ge, Lingling Dai, Bingding Huang, Rashid Khan. Ensemble learning for improved sentiment analysis in doctor–patient communication.  Digital Health 2025, 11:20552076251393338.
+<li>
 Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025.
+<li>
+Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167.
 <li>
 Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. 
 <li>
 Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议)
-<li>
-Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167.
+
 <li>
 Liuyi Yang, Shao-Chi Pao, Xiaoxing Yang, Rui Li, Lixin Liang, Bingding Huang*. 
 BiGAMR-Net: Bidirectional Gated Attention and Multi-scale Residual Network for Polyp Segmentation. International Conference on Intelligent Computing. 2025. pages:165-176. (CCF-C类会议)
@@ -36,6 +39,10 @@ BiGAMR-Net: Bidirectional Gated Attention and Multi-scale Residual Network for P
 Jialing Sun, Xinfeng Sun, Weihuang He, <b>Bingding Huang</b>, Wenxing Feng, Zhiyi Han, Ruyun Ruan, Yuanke Pan, Jinxin Zhu, Jing Li, Xin Zhong, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Jinyu Yi, Pin Cui, Xiaozhou Zhou. A liquid biopsy approach detects HCC and identifies GJA4 as a potential biomarker for HBV-HCC via plasma cfDNA methylome profiling. Clinical Epigenetics. 2025. 17:98. (并列第一作者)
 <li>
 Wei Cui, Yi Deng, Jingjing Chen, Yanqing Le, Huaying Shi, Suyi Ye, Bingding Huang, Xiaoming Chen, Jing Li, Rongde Xu. CT-guided needle insertion with an optical navigation robot-assisted puncture system: ex vivo and in vivo experimental studies in the liver and kidneys. Quantitative Imaging in Medicine and Surgery. 2025. 15(6):5114.
+<li>
+Qihao Duan, Bingding Huang, Zhenqiao Song, Irina Lehmann, Lei Gu, Roland Eils, Benjamin Wild.  JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model. 2025. arXiv preprint arXiv:2505.17257
+<li>
+Jinxing Zhu, Jiayu Wu, Tao Wang, Bingding Huang*. Medical CT Image Generation Based on Latent Space Compression.  IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT). 2025. 283-288
 
 <li>
 Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 41(3). 
@@ -48,17 +55,24 @@ Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang 
 Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41.
 <li>
 Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao* & <b>Bingding Huang*</b>. A systematic review for transformer-based long-term series forecasting, Artificial Intelligence Review. 2025, 58:80.
+<li>
+Shao-Chi Pao, Liuyi Yang, Lin Lin, Fengcheng Mei, Xiaoxing Yang, Bingding Huang*. TR7Net: A Hybrid Transformer-CNN Framework for Endoscopic Image Segmentation with Validation on Spinal Surgery. International Conference on Intelligent Computing. 2025.
 <br>
 <br>
 
 <h1>2024</h1>
 <li>
+Xumin Zuo, Jiayi Wu, Xiaoxing Yang, Heng Zhao, Bingding Huang*. IProbeTrans: A Long-Term Series Forecasting Method Based on Self-Supervised Learning. 2024 8th Asian Conference on Artificial Intelligence Technology (ACAIT). 1048-1053. 
+<li>
 Jun Ma, Yao Zhang, Song Gu, Cheng Ge, Shihao Mae, Adamo Young, Cheng Zhu, Xin Yang, Kangkang Meng, Ziyan Huang, Fan Zhang, Yuanke Pan, Shoujin Huang, Jiacheng Wang, Mingze Sun, Rongguo Zhang, Dengqiang Jia, Jae Won Choi, Natália Alves, Bram de Wilde, Gregor Koehler, Haoran Lai, Ershuai Wang, Manuel Wiesenfarth, Qiongjie Zhu, Guoqiang Dong, Jian He, Junjun He, Hua Yang, <b>Bingding Huang</b>, Mengye Lyu, Yongkang Ma, Heng Guo, Weixin Xu, Klaus Maier-Hein, Yajun Wu, Bo Wang,Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ quantification: the FLARE22 challenge,The Lancet Digital Health, 2024, 6 (11), e815-e826
+<li> Jiyuan Zhou, Yuanke Pan, Shubing Wang, Guoqiang Wang, Chengxin Gu, Jinxin Zhu, Zhenlin Tan, Qixian Wu, Weihuang He, Xiaohui Lin, Shu Xu, Kehua Yuan, Ziwen Zheng, Xiaoqing Gong, Chenhao JiangHe, Zhoujian Han, Bingding Huang, Ruyun Ruan, Mingji Feng, Pin Cui, Hui Yang. Early detection and stratification of colorectal cancer using plasma cell-free DNA fragmentomic profiling. Genomics, 2024,16(4):110876. DOI:10.1016/j.ygeno.2024.110876
+
 <li>
 Rashid Khan, Asim Zaman, Chao Chen, Chuda Xiao, Wen Zhong, Yang Liu, Haseeb Hassan, Liyilei Su, Weiguo Xie, Yan Kang, <b>Bingding Huang*</b>. MLAU-Net: Deep supervised attention and hybrid loss strategies for enhanced segmentation of low-resolution kidney ultrasound. Digital Health 2024,10, 20552076241291306
-
-<li> Jiyuan Zhou, Yuanke Pan, Shubing Wang, Guoqiang Wang, Chengxin Gu, Jinxin Zhu, Zhenlin Tan, Qixian Wu, Weihuang He, Xiaohui Lin, Shu Xu, Kehua Yuan, Ziwen Zheng, Xiaoqing Gong, Chenhao JiangHe, Zhoujian Han, Bingding Huang, Ruyun Ruan, Mingji Feng, Pin Cui, Hui Yang. Early detection and stratification of colorectal cancer using plasma cell-free DNA fragmentomic profiling. Genomics, 2024,16(4):110876. DOI:10.1016/j.ygeno.2024.110876
 <li> Rashid Khan, Liyilei Su, Asim Zaman, Haseeb Hassan, Yan Kang, Bingding Huang*. Customized m-RCNN and hybrid deep classifier for liver cancer segmentation and classification. Heliyon. 2024, 10(10):E30528. DOI:10.1016/j.heliyon.2024.e30528
+<li>
+Rashid Khan, Nasir Ud Din, Asim Zaman, Bingding Huang*. Automated Tomato Leaf Disease Detection Using Image Processing: An SVM-Based Approach with GLCM and SIFT Features, Journal of Engineering. 2024, 9918296.
+
 <li>
 Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with Inception-based LSTM for Descriptive Image Captioning. 2024 4th International Conference on Computer Communication and Artificial Intelligence (CCAI). 24-26 May 2024,Xi'an, China. 
 
@@ -68,6 +82,7 @@ Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with
 <li> Shangru Li, Xiangpeng Meng, Rui Li, Bingding Huang*, Xin Wang*, NanoBERTa-ASP: predicting nanobody paratope based on a pretrained RoBERTa model. BMC bioinformatics, 2024, 25:122.
 <li> Asim Zaman, HASSAN HASEEB, Xueqiang Zeng, Jiaxi Lu, Huihui Yang, Xiaoqiang Miao, Yang Yingjian, Rashid Khan, Bingding Huang, Yingwei Guo, Adaptive Feature Medical Segmentation Network: an adaptable deep learning paradigm for high-performance 3D brain lesion segmentation in medical imaging, Frontiers in Neuroscience, 2024, 18:1363930. DOI:10.3389/fnins.2024.1363930
 <li> Kan Huang; Zilun Li; Xi He; Jun Dai; Bingding Huang; Yongxia Shi; Dongxiao Fan; Zefeng Zhang; Yunchong Liu; Na Li; Zhongyu Zhang; Jiangyun Peng; Chenshu Liu; Renli Zeng; Zhipeng Cen; Tengyao Wang; Wenchao Yang; Meifeng Cen; Jingyu Li; Shuai Yuan; Lu Zhang; Dandan Hu; Shuxiang Huang; Pin Chen; Peilong Lai; Kai Feng; Jian Wang; Baolin Liao; Weiping Cai; Xilong Deng; Yueping Li; Jianping Li; Zhongwei Hu; Li Yang; Jiaojiao Li; Youguang Zhuo; Fuchun Zhang; Wei Zhang; Qianlin Ni; Xiqiang Hong; Guangqi Chang; Yang Zhang; Dongxian Guan; Weikang Cai; Yutong Lu; Fang Li; Li Yan; Meng Ren; Linghua Li; Sifan Chen*, Gut microbial co-metabolite 2MBC exacerbates COVID-19 associated thrombosis via binding to and activating integrin α2β1, Cell metabolism, 2024, 36(3):598-616 (并列第一). DOI: 10.1016/j.cmet.2024.01.014
+
 
 <li> Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3.
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
