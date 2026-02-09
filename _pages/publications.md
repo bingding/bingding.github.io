@@ -15,6 +15,20 @@ author_profile: true
 # 2025
 
 <ol>
+
+<li>
+Xin Wang, Zebiao Zheng, Wei Qin, Kangrui Yu, Yangqi Hong, Yongqi Tang, Tiantai Wang, Lixin Liang*, Bingding Huang*. NanoLAS 2.0: A Comprehensive Update on a Nanobody-Focused Platform with Advanced Visualization and Docking Simulation Features. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 1841-1844. (CCF-B类会议)
+<li>
+Wei Zhang, Yu Lu, Han Jiang, Xiujuan Zhao, Qianying Liu, Bingding Huang, Zhaoshun Zhang, Zhicheng Dong, Liyilei Su. Enhancing Early Detection of Tractional Retinal Lesions in OCT via Self-Supervised Learning. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 3248-3253. (CCF-B类会议)
+<li>
+Jiayi Wu, Rashid Khan, Haoran Zheng, Liyilei Su, Wei Zhang*, Bingding Huang*. SegSAM-3D: Integrating Semantic Point Prompts and Multi-Layer Feature Sampling in SAM for Medical Imaging Segmentation. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 5724-5731. (CCF-B类会议)
+<li>
+Xin Wang, Ruixuan Lin, Jiaming Tang, Ruisheng Huang, Huankai Chen, Lixin Liang*, Bingding Huang*. BioLedger: A Token Incentive-Based Framework for the Secure Sharing of Genetic Data in Consortium Blockchain. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 7356-7363. (CCF-B类会议)
+<li>
+Yongzhi Huang, Jinxin Zhu, Haseeb Hassan, Jingyu Li, Liyilei Su*, Bingding Huang*. Diffusion-Based Pre-Training for Label-Efficient Abdominal Multi-Organ Segmentation. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 1-6. (CCF-B类会议)
+<li>
+钟文,刘旸，苏李一磊，张冲，龙宏欣，张旭，谢卫国，黄炳顶，曾国华. 一种用于经皮肾镜取石术的机器人辅助穿刺系统研究. 中华实验外科杂志.2025.42(12): 2469-2471.
+
 <li>
 Chenfeng Wang, Haomin Liang, Hairui Chen, Rashid Khan, Donglai Shen, Haitao Liu, Dan Shen, Wei Wang, Jianwen Liu, Frédéric Panthier, Min Zhao*, Xu Zhang*, Bingding Huang*, Haixing Mai*. Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery. npj Digital Medicine. 2025. 8(1): 728. 
 <li>
