@@ -15,6 +15,10 @@ author_profile: true
 # 2025
 
 <ol>
+<li>
+Inayatul Haq, Haomin Liang, Ke Zeng, Tao Wang, Izhar Uddin, Jielong Lin, Yan Kang, Bingding Huang*. Deep learning advancements for cardiovascular diseases (CVDs) diagnosis: Imaging modalities, challenges, and future perspectives. Biomedical Signal Processing and Control.  2026. 119:109899 
+<li>
+Xiaoxing Yang, Liwei Xiao, Jianmin Su, Bingding Huang*, CoCo-GAN: CodeBERT-driven collaborative generative adversarial learning for software defect prediction,Software Quality Journal. 2026. 34(2):12
 
 <li>
 Xin Wang, Zebiao Zheng, Wei Qin, Kangrui Yu, Yangqi Hong, Yongqi Tang, Tiantai Wang, Lixin Liang*, Bingding Huang*. NanoLAS 2.0: A Comprehensive Update on a Nanobody-Focused Platform with Advanced Visualization and Docking Simulation Features. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 1841-1844. (CCF-B类会议)
