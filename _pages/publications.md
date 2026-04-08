@@ -11,8 +11,9 @@ author_profile: true
 <br>
 {% include base_path %}
 
-<h1> 2026</h1>
+
 <ol>
+<h1>2026</h1>
 <li>
 Inayatul Haq, Haomin Liang, Ke Zeng, Tao Wang, Izhar Uddin, Jielong Lin, Yan Kang, Bingding Huang*. Deep learning advancements for cardiovascular diseases (CVDs) diagnosis: Imaging modalities, challenges, and future perspectives. Biomedical Signal Processing and Control.  2026. 119:109899 
 <li>
@@ -22,7 +23,7 @@ Inayatul Haq, Haomin Liang, Zheng Gong, Zehong Xia, Wei Zhang, Rashid Khan, Faiz
 
 <li>
 Qishi Dong, Zijian Huang, Xuanwu Wang, Zhenghui Feng, Wei Liu, Bingding Huang*. Composition‐Aware Cross‐Sectional Integration for Spatial Transcriptomics. Advanced Intelligent Discovery. 2026. e202500226
-<h1> 2025</h1>
+<h1>2025</h1>
 
 
 
@@ -112,7 +113,7 @@ Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with
 <li> Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16
 <br>
 <br>
-<h1> 2023</h1>
+<h1>2023</h1>
 <br>
 <li> Jing Li, Liyilei Su, Jun Liu, Qian Peng, Rongde Xu, Wei Cui,Yi Deng, Weiguo Xie, Bingding Huang*, Jingjing Chen*, Optical Navigation Robot-assisted Puncture System for Accurate Lung Nodule Biopsy: An Animal Study,  Quantitative Imaging in Medicine and Surgery, 2023.13(12):7789-7801. DOI: 10.21037/qims-23-576
 <li> Jiapeng Dai, Xiaoxing Yang*, Bingding Huang*, Xiaofen Lu, A Framework based on Deep Neural Network for Ranking-oriented Software Defect Prediction. The 23rd IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023).  Chiang Mai, Thailand. October 22-26, 2023.
@@ -145,7 +146,7 @@ Rashid Khan, <b>Bingding Huang*</b>, Visual Insight: Deep Multilayer Fusion with
 <br>
 
 <br>
-<h1> Befor 2021</h1>
+<h1>Befor 2021</h1>
 <br>
 
 <li> Xianglan Jin, Tiegong Wang, Luguang Chen, Pengyi Xing Xiaoyun Wu, Chengwei Shao, Bingding Huang*, Wangfu Zang*. Single-stage pulmonary resection via a combination of single hookwire localization and video-assisted thoracoscopic surgery for synchronous multiple pulmonary nodules, Technology in Cancer Research & Treatment. 2021, 20:1-9. 
