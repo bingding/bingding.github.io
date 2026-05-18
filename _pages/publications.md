@@ -11,7 +11,6 @@ author_profile: true
 {% include base_path %}
 
 <ol reversed>
-
 <h1>2026</h1>
 <li>Inayatul Haq, Haomin Liang, Ke Zeng, Tao Wang, Izhar Uddin, Jielong Lin, Yan Kang, Bingding Huang*. Deep learning advancements for cardiovascular diseases (CVDs) diagnosis: Imaging modalities, challenges, and future perspectives. Biomedical Signal Processing and Control.  2026. 119:109899 <a href="paper/2022/093_CVD-review.pdf" target="_blank">[PDF]</a>
 <li>Xiaoxing Yang, Liwei Xiao, Jianmin Su, Bingding Huang*, CoCo-GAN: CodeBERT-driven collaborative generative adversarial learning for software defect prediction,Software Quality Journal. 2026. 34(2):12 <a href="paper/2025/094_Coco-Gan.pdf" target="_blank">[PDF]</a>
