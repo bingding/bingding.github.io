@@ -18,7 +18,7 @@ author_profile: true
 
 <li>Inayatul Haq, Haomin Liang, Zheng Gong, Zehong Xia, Wei Zhang, Rashid Khan, Faizan Ahmad, Yan Kang*, Bingding Huang*. Exploring Deep Learning Models for Small Histopathology Datasets:Segmentation and Classification of Glomerular Crescent Lesions with Ablation, Interpretability, and Calibration Analyses. Interdisciplinary Sciences: Computational Life Sciences. 2026. DOI: 10.1007/s12539-026-00824-9. <a href="paper/2024/096_Glomerular.pdf" target="_blank">[PDF]</a>
 <li>Qishi Dong, Zijian Huang, Xuanwu Wang, Zhenghui Feng, Wei Liu, Bingding Huang*. Composition‐Aware Cross‐Sectional Integration for Spatial Transcriptomics. Advanced Intelligent Discovery. 2026. e202500226. <a href="paper/2026/097_adv__intel.pdf" target="_blank">[PDF]</a>
-
+<br>
 <h1>2025</h1>
 
 <li>Xin Wang, Zebiao Zheng, Wei Qin, Kangrui Yu, Yangqi Hong, Yongqi Tang, Tiantai Wang, Lixin Liang*, Bingding Huang*. NanoLAS 2.0: A Comprehensive Update on a Nanobody-Focused Platform with Advanced Visualization and Docking Simulation Features. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 1841-1844. (CCF-B类会议). <a href="paper/2025/067_NanoLAS_2.pdf" target="_blank">[PDF]</a>
@@ -30,7 +30,8 @@ author_profile: true
 <li>Chenfeng Wang, Haomin Liang, Hairui Chen, Rashid Khan, Donglai Shen, Haitao Liu, Dan Shen, Wei Wang, Jianwen Liu, Frédéric Panthier, Min Zhao*, Xu Zhang*, Bingding Huang*, Haixing Mai*. Clinical validation of an AI-assisted system for real-time kidney stone detection during flexible ureteroscopic surgery. npj Digital Medicine. 2025. 8(1): 728. <a href="paper/2025/083_Wang_et_al.pdf" target="_blank">[PDF]</a>
 <li>Donglai Shen, Shoupeng Li, Hairui Chen, . Wei Wang, Haomin Liang, Chong Zhang, Weiguo Xie, Jisong Tian, Xu Zhang*, Bingding Huang*, Haixing Mai*, Percutaneous Kidney Puncture Using a Novel Contrast-enhanced Ultrasound-guided Technique: First Swine Model In Vivo Experience. European Urology Open Science, 2025. 81:13-20. <a href="paper/2025/074_Percutaneo.pdf" target="_blank">[PDF]</a>
 <li>Pengfei Li, Wenheng Zheng, Zheng Wang, Xueling Zhang, Zhuang Tong, Liang Zhang, Hehuan Yao, Chenlei Zhang, Gebang Wang, Yu Liu, Zheyu Liu, Yegang Ma, Weiguo Xie, Bingding Huang*, Hongxu Liu*. Preliminary clinical experience with a robot-assisted system in preoperative hookwire localization of pulmonary nodules: a prospective pilot study. Journal of Robotic Surgery. 2025, 19(1):690. <a href="paper/2025/075_localizati.pdf" target="_blank">[PDF]</a>
-<li>Yufan Ge, Lingling Dai, Bingding Huang, Rashid Khan. Ensemble learning for improved sentiment analysis in doctor–patient communication.  Digital Health 2025, 11:20552076251393338.
+<li>Yufan Ge, Lingling Dai, Bingding Huang, Rashid Khan. Ensemble learning for improved sentiment analysis in doctor–patient communication.  Digital Health 2025, 11:20552076251393338.  <a href="paper/2025/078_ge-et-al.pdf" target="_blank">[PDF]</a>
+
 <li>Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025. <a href="paper/2014/077_ina-breast.pdf" target="_blank">[PDF]</a>
 <li>Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167. <a href="paper/2025/078_Hybrid_of_.pdf" target="_blank">[PDF]</a>
 <li>Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. <a href="paper/2024/079_MASAN_Mult.pdf" target="_blank">[PDF]</a>
@@ -47,7 +48,7 @@ author_profile: true
 <li>Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41. <a href="paper/2025/076_machines-13-00041.pdf" target="_blank">[PDF]</a>
 <li>Liyilei Su, Xumin Zuo, Rui Li, Xin Wang, Heng Zhao* & <b>Bingding Huang*</b>. A systematic review for transformer-based long-term series forecasting, Artificial Intelligence Review. 2025, 58:80.  <a href="paper/2025/077_LSF-review.pdf" target="_blank">[PDF]</a>
 <li>Shao-Chi Pao, Liuyi Yang, Lin Lin, Fengcheng Mei, Xiaoxing Yang, Bingding Huang*. TR7Net: A Hybrid Transformer-CNN Framework for Endoscopic Image Segmentation with Validation on Spinal Surgery. International Conference on Intelligent Computing. 2025.  <a href="paper/2025/092_TR7Net.pdf" target="_blank">[PDF]</a>
-
+<br>
 <h1>2024</h1>
 <li>Xumin Zuo, Jiayi Wu, Xiaoxing Yang, Heng Zhao, Bingding Huang*. IProbeTrans: A Long-Term Series Forecasting Method Based on Self-Supervised Learning. 2024 8th Asian Conference on Artificial Intelligence Technology (ACAIT). 1048-1053. <a href="paper/2024/051_IProbeTran.pdf" target="_blank">[PDF]</a>
 <li>Jun Ma, Yao Zhang, Song Gu, Cheng Ge, Shihao Mae, Adamo Young, Cheng Zhu, Xin Yang, Kangkang Meng, Ziyan Huang, Fan Zhang, Yuanke Pan, Shoujin Huang, Jiacheng Wang, Mingze Sun, Rongguo Zhang, Dengqiang Jia, Jae Won Choi, Natália Alves, Bram de Wilde, Gregor Koehler, Haoran Lai, Ershuai Wang, Manuel Wiesenfarth, Qiongjie Zhu, Guoqiang Dong, Jian He, Junjun He, Hua Yang, <b>Bingding Huang</b>, Mengye Lyu, Yongkang Ma, Heng Guo, Weixin Xu, Klaus Maier-Hein, Yajun Wu, Bo Wang,Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ quantification: the FLARE22 challenge,The Lancet Digital Health, 2024, 6 (11), e815-e826. <a href="paper/2024/052_hanwen_flare2023.pdf" target="_blank">[PDF]</a>
@@ -69,7 +70,7 @@ author_profile: true
 <li>Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3. <a href="paper/2024/kidney_utrasound2024.pdf" target="_blank">[PDF]</a> 
 <li>Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16. <a href="paper/2020/041_Flare23_wo.pdf" target="_blank">[PDF]</a>
 
-
+<br>
 <h1>2023</h1>
 
 <li>Jing Li, Liyilei Su, Jun Liu, Qian Peng, Rongde Xu, Wei Cui,Yi Deng, Weiguo Xie, Bingding Huang*, Jingjing Chen*, Optical Navigation Robot-assisted Puncture System for Accurate Lung Nodule Biopsy: An Animal Study,  Quantitative Imaging in Medicine and Surgery, 2023.13(12):7789-7801. DOI: 10.21037/qims-23-576. <a href="paper/2023/049_animal-study.pdf" target="_blank">[PDF]</a>
@@ -85,7 +86,7 @@ author_profile: true
 <li>Shibo Liang, Ziquan Liang, Zecheng Wu, Feijuan Huang, Xu Wang, Yuanzhe Cai, Bingding Huang*, Xin Wang*, A benchmark study of protein folding algorithms on nanobodies, 2023 International Conference on Communications, Computing and Artificial Intelligence (CCCAI 2023), 92-97.  Shanghai, China, June 23-25, 2023. <a href="paper/2023/046_A_benchmar.pdf" target="_blank">[PDF]</a>
 <li>Chengmin Zhou, Bingding Huang*, Pasi Fränti*, Representation learning and reinforcement learning for dynamic complex motion planning system, IEEE Transactions on Neural Networks and Learning Systems, 2023.3. DOI: 10.1109/TNNLS.2023.3247160. <a href="paper/2022/048_Representa.pdf" target="_blank">[PDF]</a>
 <li>Chengmin Zhou, Bingding Huang*, Haseeb Hassan, Pasi Fränti*, Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning, Journal of Intelligent Manufacturing. 2023, 34(1):151-180. DOI:10.1007/s10845-022-01988-z. <a href="paper/2023/050_Attention-.pdf" target="_blank">[PDF]</a>
-
+<br>
 <h1> 2022</h1>
 <li>YuanKe Pan, Jinxin Zhu, Bingding Huang*,Unlabeled Abdominal Multi-organ Image Segmentation Based on Semi-supervised Adversarial Training Strategy, MICCAI 2022 Challenge, FLARE 2022,Lecture Notes in Computer Sciences, 2022,13816:11-22. DOI: 10.1007/978-3-031-23911-3_2. <a href="paper/2022/036_flare22-panyuanke.pdf" target="_blank">[PDF]</a>
 <li>Xinfeng Sun, Wenxing Feng, Pin Cui, Ruyun Ruan, Wenfeng Ma, Zhiyi Han, Jialing Sun, Yuanke Pan, Jinxin Zhu, Xin Zhong, Jing Li, Mengqing Ma, Rui Hu, Minling Lv, Qi Huang, Wei Zhang, Mingji Feng, Xintao Zhuang, Bingding Huang*, Xiaozhou Zhou*, Detection and monitoring of HBV-related hepatocellular carcinoma from plasma cfDNA fragmentation profiles, Genomics, 2022, 114(6):110502. DOI:10.1016/j.ygeno.2022.110502. <a href="paper/2022/029_Detection_.pdf" target="_blank">[PDF]</a>
@@ -101,7 +102,7 @@ author_profile: true
 <li>Rui Li, Chuda Xiao, Yongzhi Huang, Haseeb Hassan and Bingding Huang*, Deep Learning Applications in Computed Tomography Images for Pulmonary Nodules’ Detection and Diagnosis: A Review, Diagnostics, 2022, 12(2):198. <a href="paper/2022/091_lung-nodul.pdf" target="_blank">[PDF]</a>
 <li>Haseeb Hassan, Zhaoyu Ren, Huishi Zhao, Shuojin Huang, Dan Li, Shaohua Xiang, Yan Kang, Sifan Chen, Bingding Huang*, Review and classification of AI-enabled COVID-19 CT imaging models based on computer vision tasks,Computers in Biology and Medicine, 2022, 14:105123. <a href="paper/2022/035_COVID-CT_review-2.pdf" target="_blank">[PDF]</a>
 <li>Chengmin Zhou, Bingding Huang*, Pasi Fränti. A review of motion planning algorithms for intelligent robotics.  Journal of Intelligent Manufacturing, 2022, 33:387-424. DOI:10.1007/S10845-021-01867-Z. <a href="paper/2022/020_Zhou2022_A.pdf" target="_blank">[PDF]</a>
-
+<br>
 <h1>Befor 2021</h1>
 <li>Xianglan Jin, Tiegong Wang, Luguang Chen, Pengyi Xing Xiaoyun Wu, Chengwei Shao, Bingding Huang*, Wangfu Zang*. Single-stage pulmonary resection via a combination of single hookwire localization and video-assisted thoracoscopic surgery for synchronous multiple pulmonary nodules, Technology in Cancer Research & Treatment. 2021, 20:1-9. <a href="paper/2021/023_Hookwire_L.pdf" target="_blank">[PDF]</a>
 <li>Hübschmann, D., Kleinheinz, K., Wagener, R. et al. Mutational mechanisms shaping the coding and noncoding genome of germinal center derived B-cell lymphomas. Leukemia, 2021,35:2002-2016.(Co-author). <a href="paper/2021/024_Hubschmann.pdf" target="_blank">[PDF]</a>
