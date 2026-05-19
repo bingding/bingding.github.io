@@ -46,13 +46,13 @@ author_profile: true
 
 <li>Yufan Ge, Lingling Dai, Bingding Huang, Rashid Khan. Ensemble learning for improved sentiment analysis in doctor–patient communication.  Digital Health 2025, 11:20552076251393338.  <a href="paper/2025/078_ge-et-al.pdf" target="_blank">[PDF]</a>
 
-<li>Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025. <a href="paper/2014/077_ina-breast.pdf" target="_blank">[PDF]</a>
+<li>Inayatul Haq, Zheng Gong, Haomin Liang, Wei Zhang, Rashid Khan, Lei Gu, Roland Eils, Yan Kang, Bingding Huang*. A Review of Breast Cancer Histopathology Image Analysis with Deep Learning: Challenges, Innovations, and Clinical Integration. Image and Vision Computing. 2025. <a href="paper/2025/077_ina-breast.pdf" target="_blank">[PDF]</a>
 
 <li>Chengmin Zhou, Xin Lu, Jiapeng Dai, Xiaoxu Liu, Bingding Huang*, Pasi Fränti*. Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning. Robotics and Autonomous Systems. 2025. 105167. <a href="paper/2025/076_Hybrid_of_.pdf" target="_blank">[PDF]</a>
 
-<li>Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. <a href="paper/2024/075_MASAN_Mult.pdf" target="_blank">[PDF]</a>
+<li>Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. <a href="paper/2025/075_MASAN_Mult.pdf" target="_blank">[PDF]</a>
 
-<li>Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议).  <a href="https://link.springer.com/chapter/10.1007/978-981-96-9921-6_27" target="_blank">Link</a>. <a href="paper/2022/074_huajie_wen_OCT-1.pdf" target="_blank">[PDF]</a>
+<li>Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议).  <a href="https://link.springer.com/chapter/10.1007/978-981-96-9921-6_27" target="_blank">Link</a>. <a href="paper/2025/074_huajie_wen_OCT-1.pdf" target="_blank">[PDF]</a>
 
 <li>Liuyi Yang, Shao-Chi Pao, Xiaoxing Yang, Rui Li, Lixin Liang, Bingding Huang*. BiGAMR-Net: Bidirectional Gated Attention and Multi-scale Residual Network for Polyp Segmentation. International Conference on Intelligent Computing. 2025. pages:165-176. (CCF-C类会议). <a href="paper/2025/073_BiGAMR-Net.pdf" target="_blank">[PDF]</a>
 
@@ -60,15 +60,15 @@ author_profile: true
 
 <li>Wei Cui, Yi Deng, Jingjing Chen, Yanqing Le, Huaying Shi, Suyi Ye, Bingding Huang, Xiaoming Chen, Jing Li, Rongde Xu. CT-guided needle insertion with an optical navigation robot-assisted puncture system: ex vivo and in vivo experimental studies in the liver and kidneys. Quantitative Imaging in Medicine and Surgery. 2025. 15(6):5114. <a href="paper/2025/071_CT-guided_.pdf" target="_blank">[PDF]</a>
 
-<li>Jinxing Zhu, Jiayu Wu, Tao Wang, Bingding Huang*. Medical CT Image Generation Based on Latent Space Compression.  IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT). 2025. 283-288. <a href="paper/2022/070_Medical_CT.pdf" target="_blank">[PDF]</a>
+<li>Jinxing Zhu, Jiayu Wu, Tao Wang, Bingding Huang*. Medical CT Image Generation Based on Latent Space Compression.  IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT). 2025. 283-288. <a href="paper/2025/070_Medical_CT.pdf" target="_blank">[PDF]</a>
 
-<li>Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 41(3). <a href="paper/2023/069_VisionMol.pdf" target="_blank">[PDF]</a>
+<li>Xin Wang, Yicheng Zhuang, Wenrui Liang, Haoyang Wen, Zhencong Cai, Yujia He, Yuxi Su, Wei Qin, Yuanzhe Cai, Lixin Liang, <b>Bingding Huang*</b>. VisionMol: A Novel Virtual Reality Tool for Protein Molecular Structure Visualization and Manipulation. Bioinformatics. 2025. 41(3). <a href="paper/2025/069_VisionMol.pdf" target="_blank">[PDF]</a>
 
-<li>Xin Wang, Haotian Chen, Bo Chen, Lixin Liang, Fengcheng Mei, <b>Bingding Huang*</b>. NanoAbLLaMA: construction of nanobody libraries with protein large language models. Frontiers in Chemistry. 2025. 13:1545136. doi: 10.3389/fchem.2025.1545136. <a href="paper/2024/068_NanoAbLLaMA.pdf" target="_blank">[PDF]</a>
+<li>Xin Wang, Haotian Chen, Bo Chen, Lixin Liang, Fengcheng Mei, <b>Bingding Huang*</b>. NanoAbLLaMA: construction of nanobody libraries with protein large language models. Frontiers in Chemistry. 2025. 13:1545136. doi: 10.3389/fchem.2025.1545136. <a href="paper/2025/068_NanoAbLLaMA.pdf" target="_blank">[PDF]</a>
 
 <li>Rashid Khan, Chao Chen, Asim Zaman, Jiayi Wu, Haixing Mai, Liyilei Su, Yan Kang & <b>Bingding Huang*</b>. RenalSegNet: automated segmentation of renal tumor, veins, and arteries in contrast-enhanced CT scans. Complex & Intelligent Systems, 2025, 11(2):1-20. <a href="paper/2025/067_RenalSegNet.pdf" target="_blank">[PDF]</a>
 
-<li>Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2025,27(1):97-111. <a href="paper/2024/066_enhanced_CT_kidney.pdf" target="_blank">[PDF]</a>
+<li>Zhuo Chen, Chuda Xiao, Yang Liu, Haseeb Hassan, Dan Li, Jun Liu, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*. Comprehensive 3D Analysis of the Renal System and Stones: Segmenting and Registering Non-Contrast and Contrast Computed Tomography Images. Information Systems Frontiers. 2025,27(1):97-111. <a href="paper/2025/066_enhanced_CT_kidney.pdf" target="_blank">[PDF]</a>
 
 <li>Jia Sun, Qifeng Zhang, Yu Lu, <b> Bingding Huang </b>, Qiang Li, A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines 2025, 13 (1):41. <a href="paper/2025/065_machines-13-00041.pdf" target="_blank">[PDF]</a>
 
