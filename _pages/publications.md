@@ -52,7 +52,7 @@ author_profile: true
 
 <li>Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. <a href="paper/2024/075_MASAN_Mult.pdf" target="_blank">[PDF]</a>
 
-<li>Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议). <a href="paper/2022/074_huajie_wen_OCT-1.pdf" target="_blank">[PDF]</a>
+<li>Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议).  <a href="https://link.springer.com/chapter/10.1007/978-981-96-9921-6_27" target="_blank">Link</a>. <a href="paper/2022/074_huajie_wen_OCT-1.pdf" target="_blank">[PDF]</a>
 
 <li>Liuyi Yang, Shao-Chi Pao, Xiaoxing Yang, Rui Li, Lixin Liang, Bingding Huang*. BiGAMR-Net: Bidirectional Gated Attention and Multi-scale Residual Network for Polyp Segmentation. International Conference on Intelligent Computing. 2025. pages:165-176. (CCF-C类会议). <a href="paper/2025/073_BiGAMR-Net.pdf" target="_blank">[PDF]</a>
 
