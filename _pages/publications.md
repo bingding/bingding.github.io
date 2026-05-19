@@ -18,7 +18,7 @@ author_profile: true
 <li>Qihao Duan, Bingding Huang, Zhenqiao Song, Irina Lehmann, Lei Gu, Roland Eils, Benjamin Wild.  JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model. 2026. Advances in Neural Information Processing Systems 38, 68791-68818. <a href="paper/2026/090_NeurIPS-20.pdf" target="_blank">[PDF]</a>
 <li>Xiaoxing Yang, Liwei Xiao, Jianmin Su, Bingding Huang*, CoCo-GAN: CodeBERT-driven collaborative generative adversarial learning for software defect prediction,Software Quality Journal. 2026. 34(2):12. <a href="paper/2026/089_Coco-Gan.pdf" target="_blank">[PDF]</a>
 <li>Inayatul Haq, Haomin Liang, Ke Zeng, Tao Wang, Izhar Uddin, Jielong Lin, Yan Kang, Bingding Huang*. Deep learning advancements for cardiovascular diseases (CVDs) diagnosis: Imaging modalities, challenges, and future perspectives. Biomedical Signal Processing and Control.  2026. 119:109899. <a href="paper/2026/088_CVD-review.pdf" target="_blank">[PDF]</a>
-
+<br>
 <br>
 <h1>2025</h1>
 <li>Shao-Chi Pao, Liuyi Yang, Lin Lin, Fengcheng Mei, Xiaoxing Yang, Bingding Huang*. TR7Net: A Hybrid Transformer-CNN Framework for Endoscopic Image Segmentation with Validation on Spinal Surgery. International Conference on Intelligent Computing. 2025.  <a href="paper/2025/087_TR7Net.pdf" target="_blank">[PDF]</a>
@@ -65,7 +65,7 @@ author_profile: true
 
 <li>Xin Wang, Zebiao Zheng, Wei Qin, Kangrui Yu, Yangqi Hong, Yongqi Tang, Tiantai Wang, Lixin Liang*, Bingding Huang*. NanoLAS 2.0: A Comprehensive Update on a Nanobody-Focused Platform with Advanced Visualization and Docking Simulation Features. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). Pages: 1841-1844. (CCF-B类会议). <a href="paper/2025/062_NanoLAS_2.pdf" target="_blank">[PDF]</a>
 
-
+<br>
 <br>
 <h1>2024</h1>
 <li>Xumin Zuo, Jiayi Wu, Xiaoxing Yang, Heng Zhao, Bingding Huang*. IProbeTrans: A Long-Term Series Forecasting Method Based on Self-Supervised Learning. 2024 8th Asian Conference on Artificial Intelligence Technology (ACAIT). 1048-1053. <a href="paper/2024/061_IProbeTran.pdf" target="_blank">[PDF]</a>
@@ -88,6 +88,7 @@ author_profile: true
 <li>Rashid Khan, Chuda Xiao, Yang Liu, Jinyu Tian, Zhuo Chen, Liyilei Su, Dan Li, Haseeb Hassan, Haoyu Li, Weiguo Xie, Wen Zhong*, Bingding Huang*, Transformative Deep Neural Network Approaches in Kidney Ultrasound Segmentation: Empirical Validation with an Annotated Dataset, Interdisciplinary Sciences: Computational Life Sciences, 2024,1-16. DOI: 10.1007/s12539-024-00620-3. <a href="paper/2023/048_kidney_utrasound2024.pdf" target="_blank">[PDF]</a> 
 <li>Hanwen Zhang, Yongzhi Huang, Bingding Huang*. Two-Stage Training for Abdominal Pan-Cancer Segmentation in Weak Label. In: Ma, J., Wang, B. (eds) Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT. FLARE 2023. Lecture Notes in Computer Science, 2024. 14544:194-208. Springer, Cham. DOI:10.1007/978-3-031-58776-4_16. <a href="paper/2020/047_Flare23_wo.pdf" target="_blank">[PDF]</a>
 
+<br>
 <br>
 <h1>2023</h1>
 
@@ -120,6 +121,7 @@ author_profile: true
 <li>Rui Li, Chuda Xiao, Yongzhi Huang, Haseeb Hassan and Bingding Huang*, Deep Learning Applications in Computed Tomography Images for Pulmonary Nodules’ Detection and Diagnosis: A Review, Diagnostics, 2022, 12(2):198. <a href="paper/2022/026_lung-nodul.pdf" target="_blank">[PDF]</a>
 <li>Haseeb Hassan, Zhaoyu Ren, Huishi Zhao, Shuojin Huang, Dan Li, Shaohua Xiang, Yan Kang, Sifan Chen, Bingding Huang*, Review and classification of AI-enabled COVID-19 CT imaging models based on computer vision tasks,Computers in Biology and Medicine, 2022, 14:105123. <a href="paper/2022/032_COVID-CT_review-2.pdf" target="_blank">[PDF]</a>
 <li>Chengmin Zhou, Bingding Huang*, Pasi Fränti. A review of motion planning algorithms for intelligent robotics.  Journal of Intelligent Manufacturing, 2022, 33:387-424. DOI:10.1007/S10845-021-01867-Z. <a href="paper/2022/024_Zhou2022_A.pdf" target="_blank">[PDF]</a>
+<br>
 <br>
 <h1>Befor 2021</h1>
 <li>Xianglan Jin, Tiegong Wang, Luguang Chen, Pengyi Xing Xiaoyun Wu, Chengwei Shao, Bingding Huang*, Wangfu Zang*. Single-stage pulmonary resection via a combination of single hookwire localization and video-assisted thoracoscopic surgery for synchronous multiple pulmonary nodules, Technology in Cancer Research & Treatment. 2021, 20:1-9. <a href="paper/2021/023_Hookwire_L.pdf" target="_blank">[PDF]</a>
