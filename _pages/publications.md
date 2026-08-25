@@ -12,6 +12,12 @@ author_profile: true
 
 <ol reversed>
 <h1>2026</h1>
+<li>
+Zhiqing Liang, Faizan Ahmad, Haomin Liang, Inayatul Haq, Liyilei Su, Rui Li, Bingding Huang*. UMC-FM: Uncertainty-Guided Mamba-Consistent Feature Mixing for Semi-supervised Pulmonary Vessel Segmentation. International Conference on Intelligent Computing. 2026. Pages: 343-355. (CCF-C类会议) <a href="paper/2026/094_UMC-FM.pdf" target="_blank">[PDF]</a>
+
+<li>
+Qi Zhang, Ningxin Qin, Chenyang Liu, Chenran Jiang, jiean Chen, Bin Zeng*, Bingding Huang*. PIPCDiff: Pocket-Informed Pharmacophore Conditioning for Diffusion-Based Molecular Generation. International Conference on Intelligent Computing. 2026. Pages: 458-470. (CCF-C类会议)
+<a href="paper/2026/093_PIPCDiff.pdf" target="_blank">[PDF]</a>
 
 <li>Inayatul Haq, Haomin Liang, Zheng Gong, Zehong Xia, Wei Zhang, Rashid Khan, Faizan Ahmad, Yan Kang*, Bingding Huang*. Exploring Deep Learning Models for Small Histopathology Datasets:Segmentation and Classification of Glomerular Crescent Lesions with Ablation, Interpretability, and Calibration Analyses. Interdisciplinary Sciences: Computational Life Sciences. 2026. DOI: 10.1007/s12539-026-00824-9. <a href="paper/2026/092_Glomerular.pdf" target="_blank">[PDF]</a>
 
@@ -52,7 +58,7 @@ author_profile: true
 
 <li>Hao Wang, Wei Chen, Wei Zhou, Bingding Huang, Jiawan Zhang, Peixuan Li. MASAN: Multi-Attention Based Sliced Adversarial Network for Improved B-Cell Acute Lymphoblastic Leukemia Classification. 2025 IEEE International Conference on Mechatronics and Automation (ICMA). 2025, 1024-1029. <a href="paper/2025/075_MASAN_Mult.pdf" target="_blank">[PDF]</a>
 
-<li>Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议).  <a href="https://link.springer.com/chapter/10.1007/978-981-96-9921-6_27" target="_blank">Link</a>. <a href="paper/2025/074_huajie_wen_OCT-1.pdf" target="_blank">[PDF]</a>
+<li>Wei Zhang, Haonan Qin, Xiujuan Zhao, Yu Lu, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. International Conference on Intelligent Computing. 2025. pages: 329-338. (CCF-C类会议).  <a href="https://link.springer.com/chapter/10.1007/978-981-96-9921-6_27" target="_blank">Link</a>
 
 <li>Liuyi Yang, Shao-Chi Pao, Xiaoxing Yang, Rui Li, Lixin Liang, Bingding Huang*. BiGAMR-Net: Bidirectional Gated Attention and Multi-scale Residual Network for Polyp Segmentation. International Conference on Intelligent Computing. 2025. pages:165-176. (CCF-C类会议). <a href="paper/2025/073_BiGAMR-Net.pdf" target="_blank">[PDF]</a>
 
