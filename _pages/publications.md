@@ -17,10 +17,10 @@ author_profile: true
 Donglai Shen, Shoupeng Li, Zhi Li, Haomin Liang, Wei Zhu, Hairui Chen, Jisong Tian, Wei Wang, Xu Zhang*, Bingding Huang*, Haixing Mai*. First-in-clinical Evaluation of Dual Contrast-enhanced Ultrasound-guided PCNL: A Multicenter Randomized Trial Versus Fluoroscopy. European Urology Focus. 2026.  <a href="paper/2026/097_First_in_clinical.pdf" target="_blank">[PDF]</a> 
 
 <li>
-Zhiqing Liang, Faizan Ahmad, Haomin Liang, Inayatul Haq, Liyilei Su, Rui Li, Bingding Huang*. UMC-FM: Uncertainty-Guided Mamba-Consistent Feature Mixing for Semi-supervised Pulmonary Vessel Segmentation. International Conference on Intelligent Computing. 2026. Pages: 343-355. (CCF-C类会议) <a href="paper/2026/096_UMC-FM.pdf" target="_blank">[PDF]</a>
+Zhiqing Liang, Faizan Ahmad, Haomin Liang, Inayatul Haq, Liyilei Su, Rui Li*, Bingding Huang*. UMC-FM: Uncertainty-Guided Mamba-Consistent Feature Mixing for Semi-supervised Pulmonary Vessel Segmentation. International Conference on Intelligent Computing. 2026. Pages: 343-355. (CCF-C类会议) <a href="paper/2026/096_UMC-FM.pdf" target="_blank">[PDF]</a>
 
 <li>
-Qi Zhang, Ningxin Qin, Chenyang Liu, Chenran Jiang, jiean Chen, Bin Zeng*, Bingding Huang*. PIPCDiff: Pocket-Informed Pharmacophore Conditioning for Diffusion-Based Molecular Generation. International Conference on Intelligent Computing. 2026. Pages: 458-470. (CCF-C类会议)
+Qi Zhang, Ningxin Qin, Chenyang Liu, Chenran Jiang, Jiean Chen, Bin Zeng*, Bingding Huang*. PIPCDiff: Pocket-Informed Pharmacophore Conditioning for Diffusion-Based Molecular Generation. International Conference on Intelligent Computing. 2026. Pages: 458-470. (CCF-C类会议)
 <a href="paper/2026/095_pipcdiff.pdf" target="_blank">[PDF]</a>
 
 <li>
@@ -32,7 +32,7 @@ Ke Zeng, Rashid Khan, Haomin Liang, Inayatul Haq, Zehong Xia, Rui Li, Lixin Lian
 
 <li>Qihao Duan, Bingding Huang, Zhenqiao Song, Irina Lehmann, Lei Gu, Roland Eils, Benjamin Wild.  JanusDNA: A Powerful Bi-directional Hybrid DNA Foundation Model. 2026. Advances in Neural Information Processing Systems 38, 68791-68818. <a href="paper/2026/091_NeurIPS-20.pdf" target="_blank">[PDF]</a>
 
-<li>Inayatul Haq, Haomin Liang, Ke Zeng, Tao Wang, Izhar Uddin, Jielong Lin, Yan Kang, Bingding Huang*. Deep learning advancements for cardiovascular diseases (CVDs) diagnosis: Imaging modalities, challenges, and future perspectives. Biomedical Signal Processing and Control.  2026. 119:109899. <a href="paper/2026/090_CVD-review.pdf" target="_blank">[PDF]</a>
+<li>Inayatul Haq, Haomin Liang, Ke Zeng, Tao Wang, Izhar Uddin, Jielong Lin, Yan Kang*, Bingding Huang*. Deep learning advancements for cardiovascular diseases (CVDs) diagnosis: Imaging modalities, challenges, and future perspectives. Biomedical Signal Processing and Control.  2026. 119:109899. <a href="paper/2026/090_CVD-review.pdf" target="_blank">[PDF]</a>
 <li>
 Haoran Zheng, Huajie Wen, Lixin Liang, Bingding Huang*. CSM-WNet: A Multi-modal Feature Fusion Network for MRI Brain Tumor Segmentation. Proceedings of the 2026 6th International Conference on Bioinformatics and Intelligent Computing. 2026:663-671. <a href="paper/2026/089_CSM-WNet.pdf" target="_blank">[PDF]</a>
 
